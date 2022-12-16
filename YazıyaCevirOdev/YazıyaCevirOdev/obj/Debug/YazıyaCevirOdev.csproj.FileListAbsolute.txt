@@ -1,0 +1,8 @@
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\bin\Debug\YazıyaCevirOdev.exe.config
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\bin\Debug\YazıyaCevirOdev.exe
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\bin\Debug\YazıyaCevirOdev.pdb
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\obj\Debug\YazıyaCevirOdev.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\obj\Debug\YazıyaCevirOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\obj\Debug\YazıyaCevirOdev.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\obj\Debug\YazıyaCevirOdev.exe
+C:\Users\ENES\Desktop\Yeni klasör\YazıyaCevirOdev\YazıyaCevirOdev\obj\Debug\YazıyaCevirOdev.pdb
